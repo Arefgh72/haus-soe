@@ -1,10 +1,10 @@
 [
   {
-    "id": "GiwaTestnet-91342",
-    "displayName": "GiwaTestnet",
-    "network_name": "GiwaTestnet",
-    "rpc_url": "https://sepolia-rpc.giwa.io/",
-    "chain_id": "91342",
-    "explorer_url": "https://sepolia-explorer.giwa.io"
+    "id": "Haust-Network-Testnet-1523903251",
+    "displayName": "Haust Network Testnet",
+    "network_name": "Haust Network Testnet",
+    "rpc_url": "https://rpc-testnet.haust.app/",
+    "chain_id": "1523903251",
+    "explorer_url": "https://explorer-testnet.haust.app"
   }
 ]
